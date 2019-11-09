@@ -7,4 +7,4 @@ psycopg2
 amadeus
 pandas
 bs4
-sqlite3
+
