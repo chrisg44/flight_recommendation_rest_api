@@ -4,3 +4,7 @@ Flask-JWT
 Flask-SQLAlchemy
 uwsgi
 psycopg2
+amadeus
+pandas
+bs4
+sqlite3
