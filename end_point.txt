@@ -1,0 +1,14 @@
+return
+{
+    location_name:
+    flight_price:
+    flight_times:
+    stopover:
+
+    destination_image_url: 
+    points_of_interest_top3:
+    points_of_interest_url:
+    
+
+
+}
